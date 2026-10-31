@@ -1,21 +1,21 @@
 (function () {
   var dict = {
     "hero.label": { es: "EXPEDIENTE PROFESIONAL", en: "PROFESSIONAL PROFILE" },
-    "hero.role": { es: "Analista de Transformación de Procesos en Marlex · Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)", en: "Process Transformation Analyst at Marlex · Multiplatform App Development graduate" },
+    "hero.role": { es: "Business Transformation Analyst | CRM & CX en Marlex · Técnico en Desarrollo de Aplicaciones Multiplataforma (DAM)", en: "Business Transformation Analyst | CRM & CX at Marlex · Multiplatform App Development graduate" },
     "hero.intro": { es: "Trabajo en el punto de encuentro entre la mejora de procesos y el desarrollo de software: analizo cómo funcionan los sistemas y construyo las herramientas para hacerlos mejores.", en: "I work where process improvement meets software development: I analyze how systems work and build the tools to make them better." },
     "hero.cta.contact": { es: "Contactar", en: "Get in touch" },
 
     "about.title": { es: "Sobre mí", en: "About" },
-    "about.p1": { es: "Combino mi trabajo como Analista de Transformación de Procesos en Marlex con la formación técnica en Desarrollo de Aplicaciones Multiplataforma (DAM) que completé en el Institut Montilivi. Esta combinación me permite mirar los problemas desde dos ángulos: el del negocio, que necesita procesos más claros y eficientes, y el técnico, que los convierte en soluciones reales.", en: "I combine my work as Process Transformation Analyst at Marlex with the technical background in Multiplatform App Development (DAM) I completed at Institut Montilivi. This combination lets me look at problems from two angles: the business side, which needs clearer and more efficient processes, and the technical side, which turns them into real solutions." },
+    "about.p1": { es: "Combino mi trabajo como Business Transformation Analyst | CRM & CX en Marlex con la formación técnica en Desarrollo de Aplicaciones Multiplataforma (DAM) que completé en el Institut Montilivi. Esta combinación me permite mirar los problemas desde dos ángulos: el del negocio, que necesita procesos más claros y eficientes, y el técnico, que los convierte en soluciones reales.", en: "I combine my work as Business Transformation Analyst | CRM & CX at Marlex with the technical background in Multiplatform App Development (DAM) I completed at Institut Montilivi. This combination lets me look at problems from two angles: the business side, which needs clearer and more efficient processes, and the technical side, which turns them into real solutions." },
     "about.p2": { es: "Antes de esto pasé varios años como repartidor en Pizzería Ñam Ñam, una etapa que me enseñó el valor de la organización, la rapidez de reacción y el trato con las personas — cualidades que hoy aplico de otra forma, pero con la misma exigencia.", en: "Before this I spent several years as a delivery driver at Pizzería Ñam Ñam, a stage that taught me the value of organization, quick thinking and dealing with people — qualities I apply differently today, but with the same rigor." },
     "about.lang.ca": { es: "Catalán — nativo", en: "Catalan — native" },
     "about.lang.es": { es: "Español — nativo", en: "Spanish — native" },
     "about.lang.en": { es: "Inglés — intermedio", en: "English — intermediate" },
 
     "exp.title": { es: "Experiencia profesional", en: "Professional experience" },
-    "exp.1.role": { es: "Analista de Transformación de Procesos", en: "Process Transformation Analyst" },
+    "exp.1.role": { es: "Business Transformation Analyst | CRM & CX", en: "Business Transformation Analyst | CRM & CX" },
     "exp.1.meta": { es: "MAYO 2026 — ACTUALIDAD", en: "MAY 2026 — PRESENT" },
-    "exp.1.desc": { es: "Análisis y mejora de procesos internos, identificando ineficiencias y proponiendo soluciones que combinan cambio organizativo y herramientas digitales.", en: "Analysis and improvement of internal processes, identifying inefficiencies and proposing solutions that combine organizational change and digital tools." },
+    "exp.1.desc": { es: "Transformación de negocio centrada en CRM y experiencia de cliente (CX): análisis y mejora de procesos, identificando ineficiencias y proponiendo soluciones que combinan cambio organizativo y herramientas digitales.", en: "Business transformation focused on CRM and customer experience (CX): analyzing and improving processes, identifying inefficiencies and proposing solutions that combine organizational change and digital tools." },
     "exp.2.role": { es: "Process Transformation Interim", en: "Process Transformation Interim" },
     "exp.2.meta": { es: "DICIEMBRE 2025 — MAYO 2026", en: "DECEMBER 2025 — MAY 2026" },
     "exp.2.desc": { es: "Incorporación al equipo de transformación de procesos, dando soporte en el análisis y documentación de flujos de trabajo.", en: "Joined the process transformation team, supporting the analysis and documentation of workflows." },

@@ -2,7 +2,7 @@
 
 Portfolio personal bilingüe (ES / EN) con mi experiencia, formación y habilidades.
 
-🔗 **Web:** https://alexgrosaguileramarlex.github.io/portfolio-web/
+🔗 **Web:** https://alex-gros.github.io/portfolio-web/
 
 ## Características
 - Cambio de idioma español / inglés sin recargar la página (diccionario en JavaScript)
